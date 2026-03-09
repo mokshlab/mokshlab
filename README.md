@@ -2,7 +2,7 @@
 
 <!-- Profile Banner -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/stickers/PLCnext-transparent-IeRdg7gLkfK1ly2mFU" width="100"/>
 </div>
 
 <!-- Header -->
@@ -17,7 +17,7 @@
 - 🚀 Exploring Cloud technologies and DevOps practices
 
 
-## Featured Projects
+## Featured Projects <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="repo">
 
 - [AI-Powered Invoice Management](https://github.com/mokshlab/Invio)  
   Built with the MERN stack and Google Gemini. AI-powered invoice management with natural language generation, real-time analytics, and automated workflows.
@@ -31,12 +31,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
 
 ## :hammer_and_wrench: Tech Stack
 
 ### Languages
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -58,6 +57,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
 ### Tools & Technologies
