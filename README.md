@@ -2,7 +2,7 @@
 
 <!-- Profile Banner -->
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/PLCnext-transparent-IeRdg7gLkfK1ly2mFU" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJvdHBsZ2h2aWcxcWk2dGZsemdkbjJtaDMyZTZyN2V3ZG5nNXg5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IeRdg7gLkfK1ly2mFU/giphy.gif" width="100"/>
 </div>
 
 <!-- Header -->
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
 ### Tools & Technologies
