@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=190&section=header&text=Hi%2C%20I'm%20Moksh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%C2%B7%20Building%20production%20apps%20that%20hold%20under%20pressure&descAlignY=75&descSize=15"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12&height=190&section=header&text=Hi%2C%20I'm%20Moksh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%C2%B7%20Building%20production%20apps%20that%20hold%20under%20pressure&descAlignY=75&descSize=15" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12&height=190&section=header&text=Hi%2C%20I'm%20Moksh&fontSize=58&fontColor=000000&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%C2%B7%20Building%20production%20apps%20that%20hold%20under%20pressure&descAlignY=75&descSize=15" alt="header" width="100%"/>
 </picture>
 
 <br/>
@@ -15,13 +15,15 @@
 
 ## About Me
 
-<table>
-<tr>
-<td valign="top" width="58%">
+<div>
+  <a href="https://github.com/mokshlab">
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="260" alt="coding"/>
+  </a>
+</div>
 
-🧑‍💻 &nbsp;**Computer Science Engineering Student** at Chitkara University
+🧑‍💻 &nbsp;**Computer Science Engineering Student** at Chitkara University  
 🔐 &nbsp;Security isn't an add-on: **JWT · OWASP · bcrypt · rate-limiting** are in every project I build  
-🤖 &nbsp;Integrated **Google Gemini AI**, built a **zero-dependency canvas physics engine**, shipped **Socket.io real-time** — from scratch  
+🤖 &nbsp;Integrated **Google Gemini AI**, built a **canvas physics engine**, shipped **Socket.io real-time** 
 🎯 &nbsp;Looking for a team where I can do meaningful work, grow fast, and actually own things  
 
 <br/>
@@ -29,12 +31,7 @@
 > *"Good software isn't just code that runs —  
 > it's code that holds under pressure, stays secure, and someone else can maintain."*
 
-</td>
-<td align="center" width="42%">
-  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="260" alt="coding"/>
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 ---
 
@@ -61,23 +58,6 @@
 
 <div align="center">
 
-### 🎯 RecruitFlow — Full-Stack Job Portal
-
-[![](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mokshlab/RecruitFlow)[![](https://img.shields.io/badge/VIEW%20CODE-0d1117?style=for-the-badge&logoColor=white)](https://github.com/mokshlab/RecruitFlow)[![](https://img.shields.io/badge/%E2%96%B2%20LIVE%20DEMO-555555?style=for-the-badge&logo=vercel&logoColor=white)](https://recruit-flow-five.vercel.app)[![](https://img.shields.io/badge/VISIT%20SITE-48C774?style=for-the-badge&logoColor=white)](https://recruit-flow-five.vercel.app)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-👥 Dual-role JWT & RBAC | ⚡ Socket.io Real-time | 📈 15+ MongoDB Indexes | 🔒 Rate-limited & XSS-safe
-
-</div>
-
-- **The Build**: Engineered a dual-role MERN hiring platform featuring **real-time Socket.io bi-directional messaging** for instant application status updates between candidates and admins.  
-- **The Impact**: Optimized query latency using **15+ MongoDB indexes**, handled secure resume file uploads via GridFS, and hardened the backend with rate limiting, Helmet.js, and strict XSS protection.
-
----
-
-<div align="center">
-
 ### 🕸️ Experiences — Personal Life Logging Platform
 
 [![](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mokshlab/Experiences)[![](https://img.shields.io/badge/VIEW%20CODE-0d1117?style=for-the-badge&logoColor=white)](https://github.com/mokshlab/Experiences)[![](https://img.shields.io/badge/%E2%96%B2%20LIVE%20DEMO-555555?style=for-the-badge&logo=vercel&logoColor=white)](https://experiences-nu.vercel.app)[![](https://img.shields.io/badge/VISIT%20SITE-8B5CF6?style=for-the-badge&logoColor=white)](https://experiences-nu.vercel.app)
@@ -90,6 +70,23 @@
 
 - **The Build**: Architected the full-stack system with Next.js 16 and a 25+ endpoint Express.js REST API. Engineered a **zero-dependency canvas knowledge graph** with custom physics and a 365-day heatmap.  
 - **The Impact**: Delivered an instantly responsive, distraction-free environment backed by a robust Prisma/PostgreSQL schema (6 relational models) and **OWASP-aligned security** (JWT httpOnly, bcrypt, Helmet.js).
+
+---
+
+<div align="center">
+
+### 🎯 RecruitFlow — Full-Stack Job Portal
+
+[![](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mokshlab/RecruitFlow)[![](https://img.shields.io/badge/VIEW%20CODE-0d1117?style=for-the-badge&logoColor=white)](https://github.com/mokshlab/RecruitFlow)[![](https://img.shields.io/badge/%E2%96%B2%20LIVE%20DEMO-555555?style=for-the-badge&logo=vercel&logoColor=white)](https://recruit-flow-five.vercel.app)[![](https://img.shields.io/badge/VISIT%20SITE-48C774?style=for-the-badge&logoColor=white)](https://recruit-flow-five.vercel.app)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+👥 Dual-role JWT & RBAC | ⚡ Socket.io Real-time | 📈 15+ MongoDB Indexes | 🔒 Rate-limited & XSS-safe
+
+</div>
+
+- **The Build**: Engineered a dual-role MERN hiring platform featuring **real-time Socket.io bi-directional messaging** for instant application status updates between candidates and admins.  
+- **The Impact**: Optimized query latency using **15+ MongoDB indexes**, handled secure resume file uploads via GridFS, and hardened the backend with rate limiting, Helmet.js, and strict XSS protection.
 
 ---
 
@@ -146,12 +143,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mokshlab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mokshlab&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mokshlab&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="stats"/>
 </picture>
 &nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshlab&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshlab&layout=compact&langs_count=6&theme=default&hide_border=true" alt="langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshlab&layout=compact&langs_count=6&theme=default&hide_border=true" alt="langs"/>
 </picture>
 
 </div>
@@ -169,5 +166,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Moksh&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer&text=Moksh&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer&text=Moksh&fontSize=20&fontColor=000000&fontAlignY=70&animation=twinkling" alt="footer" width="100%"/>
 </picture>
