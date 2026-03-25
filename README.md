@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=190&section=header&text=Hi%2C%20I'm%20Moksh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%C2%B7%20Building%20production%20apps%20that%20hold%20under%20pressure&descAlignY=75&descSize=15"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12&height=190&section=header&text=Hi%2C%20I'm%20Moksh&fontSize=58&fontColor=000000&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%C2%B7%20Building%20production%20apps%20that%20hold%20under%20pressure&descAlignY=75&descSize=15" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12&height=190&section=header&text=Hi%2C%20I'm%20Moksh&fontSize=58&fontColor=334155&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%C2%B7%20Building%20production%20apps%20that%20hold%20under%20pressure&descAlignY=75&descSize=15" alt="header" width="100%"/>
 </picture>
 
 <br/>
@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mokshlab&style=flat-square&color=6366f1&label=profile+views" alt="views"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/open%20to-internships-22c55e?style=flat-square" alt="open to internships"/>
+  <img src="https://img.shields.io/badge/open%20to-internships-16A34A?style=flat-square" alt="open to internships"/>
 </div>
 
 ---
@@ -23,7 +23,7 @@
 
 🧑‍💻 &nbsp;**Computer Science Engineering Student** at Chitkara University  
 🔐 &nbsp;Security isn't an add-on: **JWT · OWASP · bcrypt · rate-limiting** are in every project I build  
-🤖 &nbsp;Integrated **Google Gemini AI**, built a **canvas physics engine**, shipped **Socket.io real-time** 
+🤖 &nbsp;Integrated **Google Gemini AI**, built a **canvas physics engine**, shipped **Socket.io real-time**  
 🎯 &nbsp;Looking for a team where I can do meaningful work, grow fast, and actually own things  
 
 <br/>
@@ -43,7 +43,7 @@
 
 ### 🤖 Invio — AI Invoice Management Platform
 
-[![](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mokshlab/Invio)[![](https://img.shields.io/badge/VIEW%20CODE-0d1117?style=for-the-badge&logoColor=white)](https://github.com/mokshlab/Invio)[![](https://img.shields.io/badge/%E2%96%B2%20LIVE%20DEMO-555555?style=for-the-badge&logo=vercel&logoColor=white)](https://invio-iota.vercel.app)[![](https://img.shields.io/badge/VISIT%20SITE-FF6B6B?style=for-the-badge&logoColor=white)](https://invio-iota.vercel.app)
+[![](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mokshlab/Invio)[![](https://img.shields.io/badge/VIEW%20CODE-0d1117?style=for-the-badge&logoColor=white)](https://github.com/mokshlab/Invio)[![](https://img.shields.io/badge/%E2%96%B2%20LIVE%20DEMO-555555?style=for-the-badge&logo=vercel&logoColor=white)](https://invio-iota.vercel.app)[![](https://img.shields.io/badge/VISIT%20SITE-2563EB?style=for-the-badge&logoColor=white)](https://invio-iota.vercel.app)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chartdotjs&logoColor=white)
 
@@ -60,7 +60,7 @@
 
 ### 🕸️ Experiences — Personal Life Logging Platform
 
-[![](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mokshlab/Experiences)[![](https://img.shields.io/badge/VIEW%20CODE-0d1117?style=for-the-badge&logoColor=white)](https://github.com/mokshlab/Experiences)[![](https://img.shields.io/badge/%E2%96%B2%20LIVE%20DEMO-555555?style=for-the-badge&logo=vercel&logoColor=white)](https://experiences-nu.vercel.app)[![](https://img.shields.io/badge/VISIT%20SITE-8B5CF6?style=for-the-badge&logoColor=white)](https://experiences-nu.vercel.app)
+[![](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mokshlab/Experiences)[![](https://img.shields.io/badge/VIEW%20CODE-0d1117?style=for-the-badge&logoColor=white)](https://github.com/mokshlab/Experiences)[![](https://img.shields.io/badge/%E2%96%B2%20LIVE%20DEMO-555555?style=for-the-badge&logo=vercel&logoColor=white)](https://experiences-nu.vercel.app)[![](https://img.shields.io/badge/VISIT%20SITE-6D28D9?style=for-the-badge&logoColor=white)](https://experiences-nu.vercel.app)
 
 ![Next.js 16](https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Tailwind v4](https://img.shields.io/badge/Tailwind%20v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -77,7 +77,7 @@
 
 ### 🎯 RecruitFlow — Full-Stack Job Portal
 
-[![](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mokshlab/RecruitFlow)[![](https://img.shields.io/badge/VIEW%20CODE-0d1117?style=for-the-badge&logoColor=white)](https://github.com/mokshlab/RecruitFlow)[![](https://img.shields.io/badge/%E2%96%B2%20LIVE%20DEMO-555555?style=for-the-badge&logo=vercel&logoColor=white)](https://recruit-flow-five.vercel.app)[![](https://img.shields.io/badge/VISIT%20SITE-48C774?style=for-the-badge&logoColor=white)](https://recruit-flow-five.vercel.app)
+[![](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mokshlab/RecruitFlow)[![](https://img.shields.io/badge/VIEW%20CODE-0d1117?style=for-the-badge&logoColor=white)](https://github.com/mokshlab/RecruitFlow)[![](https://img.shields.io/badge/%E2%96%B2%20LIVE%20DEMO-555555?style=for-the-badge&logo=vercel&logoColor=white)](https://recruit-flow-five.vercel.app)[![](https://img.shields.io/badge/VISIT%20SITE-059669?style=for-the-badge&logoColor=white)](https://recruit-flow-five.vercel.app)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
@@ -166,5 +166,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Moksh&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer&text=Moksh&fontSize=20&fontColor=000000&fontAlignY=70&animation=twinkling" alt="footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer&text=Moksh&fontSize=20&fontColor=334155&fontAlignY=70&animation=twinkling" alt="footer" width="100%"/>
 </picture>
