@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=190&section=header&text=Hi%2C%20I'm%20Moksh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%C2%B7%20Building%20production%20apps%20that%20hold%20under%20pressure&descAlignY=75&descSize=15"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12&height=190&section=header&text=Hi%2C%20I'm%20Moksh&fontSize=58&fontColor=334155&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%C2%B7%20Building%20production%20apps%20that%20hold%20under%20pressure&descAlignY=75&descSize=15" alt="header" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=150&section=header&text=Hi%2C%20I'm%20Moksh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20Developer%20%C2%B7%20Building%20production%20apps%20that%20hold%20under%20pressure&descAlignY=70&descSize=14"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12&height=150&section=header&text=Hi%2C%20I'm%20Moksh&fontSize=50&fontColor=334155&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20Developer%20%C2%B7%20Building%20production%20apps%20that%20hold%20under%20pressure&descAlignY=70&descSize=14" alt="header" width="100%"/>
 </picture>
 
 <br/>
@@ -20,11 +20,10 @@
     <img align="right" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="260" alt="coding"/>
   </a>
 </div>
-
-🧑‍💻 &nbsp;**Computer Science Engineering Student** at Chitkara University  
-🔐 &nbsp;Security isn't an add-on: **JWT · OWASP · bcrypt · rate-limiting** are in every project I build  
-🤖 &nbsp;Integrated **Google Gemini AI**, built a **canvas physics engine**, shipped **Socket.io real-time**  
-🎯 &nbsp;Looking for a team where I can do meaningful work, grow fast, and actually own things  
+🧑‍💻 **Computer Science Engineering Student** at Chitkara University  
+💻 **Full-Stack Developer** focused on building secure, reliable web applications using the MERN stack.  
+🚀 **Engineering for Impact:** I build digital products that blend clean architecture with real-world utility — from AI integrations to real-time engines.  
+🔐 **Security by Default:** OWASP standards, robust JWT authentication, and rate-limiting are foundational to my work, not just add-ons.  
 
 <br/>
 
@@ -98,38 +97,38 @@
 
 ### 💻 Core Languages
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
 
 <br/>
 
 ### 🎨 Frontend Engineering
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white"/>
 
 <br/>
 
 ### ⚙️ Backend & Databases
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
 
 <br/>
 
 ### 🤖 AI, APIs & Cloud
 
-<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white"/>
 
 <br/>
 
@@ -155,16 +154,26 @@
 
 ---
 
+## 🤝 Connect With Me
+
+<br/>
+
 <div align="center">
 
-*Always open to interesting problems, good collaborations, and roles where I can ship real things.*  
-*Browse the repos — a ⭐ means a lot.*
+<a href="https://github.com/mokshlab"><img src="https://img.shields.io/github/followers/mokshlab?style=for-the-badge&logo=github&labelColor=181717&color=0d1117&logoColor=white&label=Follow" alt="Follow Moksh"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/mokshlab/mokshlab"><img src="https://img.shields.io/github/stars/mokshlab/mokshlab?style=for-the-badge&logo=github&labelColor=181717&color=0d1117&logoColor=white&label=Stars" alt="Stars"/></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/moksh-347196329"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181717" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="mailto:solutionsbymoksh@gmail.com"><img src="https://img.shields.io/badge/solutionsbymoksh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181717" alt="Email"/></a>
 
-</div>
-
+<br/>
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Moksh&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer&text=Moksh&fontSize=20&fontColor=334155&fontAlignY=70&animation=twinkling" alt="footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer&text=Always open to interesting problems, good collaborations, and roles where I can create real impact.&fontSize=20&fontColor=334155&fontAlignY=70&animation=twinkling" alt="footer" width="100%"/>
 </picture>
+
+</div>
